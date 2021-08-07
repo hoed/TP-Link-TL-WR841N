@@ -1,6 +1,4 @@
 # Exploit Title: TP-Link TL-WR841N - Command Injection
-# Date: 2020-12-13
-# Exploit Author: Koh You Liang
 # Vendor Homepage: https://www.tp-link.com/
 # Software Link: https://static.tp-link.com/TL-WR841N(JP)_V13_161028.zip
 # Version: TL-WR841N 0.9.1 4.0
